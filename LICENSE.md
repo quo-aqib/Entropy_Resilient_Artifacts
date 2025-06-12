@@ -1,3 +1,5 @@
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 Copyright © 2025 [Aqib Ahmed]
@@ -19,6 +21,5 @@ For the full license text, see: https://creativecommons.org/licenses/by-nc/4.0/l
 
 Human-readable summary: https://creativecommons.org/licenses/by-nc/4.0/
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 
