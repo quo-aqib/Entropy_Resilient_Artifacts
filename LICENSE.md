@@ -2,7 +2,7 @@
 
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-Copyright © 2025 [Aqib Ahmed]
+Copyright © 2025 Aqib Ahmed
 
 You are free to:
 
